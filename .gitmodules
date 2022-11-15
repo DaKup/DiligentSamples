@@ -5,5 +5,5 @@
 	path = ThirdParty/glfw
 	url = https://github.com/DiligentGraphics/glfw.git
 [submodule "Tutorials/DiligentTunnel"]
-	path = Tutorials/DiligentTunnel"
+	path = Tutorials/DiligentTunnel
 	url = https://github.com/DaKup/DiligentTunnel.git
