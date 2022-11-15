@@ -7,3 +7,5 @@
 [submodule "Tutorials/DiligentTunnel"]
 	path = Tutorials/DiligentTunnel
 	url = https://github.com/DaKup/DiligentTunnel.git
+	branch = master
+	update = merge
